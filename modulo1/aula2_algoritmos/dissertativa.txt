@@ -1,0 +1,9 @@
+1. Solicite ao usuário que forneça um número "n" para o qual deseja calcular 9 × 𝑛 #Entrada
+
+2. Calcule o primeiro dígito (dezena) da seguinte forma: digito1 = n − 1 #Processamento
+
+3. Calcule o segundo dígito (unidade) da seguinte forma: digito2 = 10 − 𝑛 #Processamento
+
+4. Combine os dois dígitos para formar o resultado final: resultado = digito1 × 10 + digito2 #Processamento
+
+5. Imprima o resultado final da multiplicação. #Saída
