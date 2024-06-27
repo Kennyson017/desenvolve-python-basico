@@ -1,0 +1,37 @@
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Admin
+      password: $2b$12$X5cNLX/9SlXGQnF2BFbmgucb7QNMl3i.frJJFxDCtWJSu7i1P9sHm
+      role: admin
+    customer:
+      email: teste@mail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Cliente2
+      password: $2b$12$vIUdpg.4ADECyrkkARxfbe9y0laUtc6xyiMObGCkIOwkpKR69hFV2
+      role: customer
+    kennyson:
+      email: Kennyson.florencio@pditabira.com.br
+      failed_login_attempts: 0
+      logged_in: false
+      name: Kennyson Chaves Florencio
+      password: $2b$12$Oxqr8GoEU3RzXK./SlkpHeq4gkCqjtuKoiQ/VHMziA9NcPU7xOlIS
+      role: admin
+    viewer:
+      email: viewer@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Viewer
+      password: $2b$12$MffWXf3uwSjDiwRuh0nuxOSTzSbNVA/0NpTH30sVucfEH3HNceuBu
+      role: view
+pre-authorized:
+  emails:
+  - admin@gmail.com
