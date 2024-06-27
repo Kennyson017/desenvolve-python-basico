@@ -1,5 +1,6 @@
-# Desenvolve Academia
+![Logo Desenvolve Academia](imgs/logo.png)
 
+## Desenvolve Academia
 ### Introdução
 
 A Desenvolve é uma rede de academias com equipamentos de qualidade, que trabalha com o modelo de assinatura mensal para que os clientes usufruam de seus benefícios. Possui 3 planos: Básico, Intermediário e Premium, que se referem à quantidade de dias na semana que o cliente frequenta a academia e a alguns benefícios extras, como nutricionista e avaliações de bioimpedância mensais.
